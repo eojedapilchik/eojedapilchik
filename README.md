@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a current candidate of Ms in Cybsersec from GeorgiaTech.
+- Software Engineer and Automation specialist. I'm an expert Vetted freelancer on Upwork
+- You can reach me here:
+https://www.upwork.com/freelancers/alcidesojeda?viewMode=1
