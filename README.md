@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a current candidate of the Ms in Cybersecurity from GeorgiaTech.
-- Software Engineer and Automation specialist. I'm an expert Vetted freelancer on Upwork
-- You can reach me here:
-https://www.upwork.com/freelancers/alcidesojeda?viewMode=1
+- Pursuing an MS in Cybersecurity from Georgia Tech.
+- Experienced Software Engineer and Automation Specialist.
+- Proficient in PHP, Python, Typescript, Symfony, FastAPI, and Flask.
+- Framework agnostic and committed to lifelong learning.
